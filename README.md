@@ -40,4 +40,4 @@
 </div>
 https://gssoc.girlscript.tech/leaderboard?year=<2024>&username=<kumarshubhh>
 <img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
-![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/<username>?year=<year>)
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/<kumarshubhh>?year=<2024>)
