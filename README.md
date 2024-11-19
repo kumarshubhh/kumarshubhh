@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shubhanshu</h1>
+<h1 align="center">Hi There 👋, I'm Shubhanshu</h1>
 <h3 align="center">A passionate frontend developer from India - 👀 I’m interested in Web Devlopment and Creative Websites</h3>
 - 🌱 I’m currently learning Bachelor of Technology in Information Technology Studying at Dr.A.P.J Abdul Kalam Technical University
+
+<h3>🛠️Tech Stack</h3>
+<ol>
+ <li>Language : HTML, CSS, JavaScript, ReactJS, NodeJS, Express NodeEJS, REST API, MongoDB, MySQL, JAVA</li>
+ <li> DataBase : MongoDB, MySQL</li>
+ <li>Tools : VScode, Github, Postman</li>
+</ol>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarshubhh&label=Profile%20views&color=0e75b6&style=flat" alt="kumarshubhh" /> </p>
 
